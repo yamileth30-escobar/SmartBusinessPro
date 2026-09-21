@@ -1,0 +1,7 @@
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\bin\Debug\SmartBusinessPro.exe.config
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\bin\Debug\SmartBusinessPro.exe
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\bin\Debug\SmartBusinessPro.pdb
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\obj\Debug\SmartBusinessPro.csproj.AssemblyReference.cache
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\obj\Debug\SmartBusinessPro.csproj.CoreCompileInputs.cache
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\obj\Debug\SmartBusinessPro.exe
+D:\02-2026\Programacion 2\Semana 9\SmartBusinessPro\SmartBusinessPro\obj\Debug\SmartBusinessPro.pdb
